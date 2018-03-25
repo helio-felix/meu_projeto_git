@@ -7,3 +7,4 @@ b
 c
 
 para ter 2 linhas no commit
+a
